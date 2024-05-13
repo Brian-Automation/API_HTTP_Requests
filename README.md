@@ -4,4 +4,4 @@ This folder contains five files:
 2. Two files which demonstrate my ability to parse through JSON response bodies.
   - For these files I used publically available APIs
 3. One file which demonstrate my ability to parse through XML response bodies.
-4. A test automation script using Java, Selenium, and TestNG.
+4. A simple and concise test automation script I created using Java, Selenium, and TestNG.
