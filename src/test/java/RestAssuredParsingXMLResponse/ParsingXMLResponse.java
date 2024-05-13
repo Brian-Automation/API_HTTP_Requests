@@ -14,8 +14,6 @@ import static org.hamcrest.CoreMatchers.equalTo;
 
 public class ParsingXMLResponse {
 
-    // in the youtube example, the xml rsponse has a page number
-
     @Test(priority = 1)
     void testXMLResponse1(){
         //Approach 1
