@@ -1,0 +1,19 @@
+In the file called, "GetRequests1.java":
+
+The code provides a robust framework for making API requests, parsing JSON responses, and validating the returned 
+data using RestAssured and TestNG.
+
+Key Points:
+API Interaction: The code interacts with NASA's Mars Rover Photos API, specifically fetching photos taken by the Curiosity rover.
+JSON Parsing: Uses the org.json library to parse and extract data from JSON responses.
+Assertions: Utilizes TestNG assertions to validate the response status and specific content within the response.
+Logging: Prints the complete URL, status code, response body, and specific extracted values for debugging purposes.
+
+In the file called, "GetRequests2.java":
+
+This code tests the NASA Earth Assets API by sending a GET request to fetch data for a specific geographic location and date. 
+It validates the response by checking for the presence of certain keys and prints relevant information extracted from the response.
+
+In the file called, "HTTPProcess6.java":
+
+
