@@ -1,0 +1,8 @@
+In this java class file I created a Selenium test script which automates the following sequence of actions on the ASOS website:
+
+Opens and verifies the website.
+Interacts with a dropdown menu to navigate to the sign-in page.
+Fills out a sign-up form with user details.
+Selects a gender radio button.
+The tests use various Selenium WebDriver features such as JavaScript execution,
+explicit waits, and form interactions to ensure smooth automation and validation of web elements.
