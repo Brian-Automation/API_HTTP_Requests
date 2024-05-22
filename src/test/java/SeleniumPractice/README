@@ -1,4 +1,4 @@
-In this java class file I created a Selenium test script which automates the following sequence of actions on the ASOS website:
+In this java class file I created a TestNG/ Selenium test script which automates the following sequence of actions on the ASOS website:
 
 Opens and verifies the website.
 Interacts with a dropdown menu to navigate to the sign-in page.
