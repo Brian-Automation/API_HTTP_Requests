@@ -1,7 +1,15 @@
-This folder contains five files:
-1. A fully a automated cycle of HTTP requests, i.e., get, post, put, delete, using rest assured.
-  - I created a dummy API using a json-server.
-2. Two files which demonstrate my ability to parse through JSON response bodies.
-  - For these files I used publically available APIs
-3. One file which demonstrate my ability to parse through XML response bodies.
-4. A simple and concise test automation script I created using Java, Selenium, and TestNG.
+This folder contains five files highlighting my QA Automation Engineering Skills:
+
+HTTP Requests Automation: A fully automated cycle of HTTP requests (GET, POST, PUT, DELETE) using RestAssured with a dummy API created using json-server.
+
+File: HTTPProcess6.java
+JSON Response Parsing: Demonstrates my ability to parse JSON response bodies using publicly available APIs.
+
+Files: GetRequests1.java, GetRequests2.java
+XML Response Parsing: Demonstrates my ability to parse XML response bodies.
+
+File: XMLResponseParsing.java
+Web Test Automation: A simple and concise test automation script using Java, Selenium, and TestNG.
+
+File: Example5.java
+These files collectively showcase my expertise in API testing, JSON/XML parsing, and web test automation.
