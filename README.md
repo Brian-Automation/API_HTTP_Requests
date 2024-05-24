@@ -1,4 +1,4 @@
-This folder contains five files highlighting my QA Automation Engineering Skills:
+This portfolio contains three folders and five files, each highlighting my QA Automation Engineering skills:
 
 Web Test Automation: A simple and concise test automation script using Java, Selenium, and TestNG.
 
