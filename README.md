@@ -6,11 +6,11 @@ Web Test Automation: A simple and concise test automation script using Java, Sel
 
 HTTP Requests Automation: A fully automated cycle of HTTP requests (GET, POST, PUT, DELETE) using RestAssured with a dummy API created using json-server.
 
-    Folder: RestAssuredParsing -> File: HTTPProcess6.java
+    Folder: RestAssuredPractice -> File: HTTPProcess6.java
   
 JSON Response Parsing: Demonstrates my ability to parse JSON response bodies using publicly available APIs.
 
-    Folder: RestAssuredParsing -> Files: GetRequests1.java, GetRequests2.java
+    Folder: RestAssuredPractice -> Files: GetRequests1.java, GetRequests2.java
 
 XML Response Parsing: Demonstrates my ability to parse XML response bodies.
 
