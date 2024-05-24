@@ -2,7 +2,7 @@ This folder contains five files highlighting my QA Automation Engineering Skills
 
 Web Test Automation: A simple and concise test automation script using Java, Selenium, and TestNG.
 
-    File: Example5.java   
+    Folder: SeleniumPractice -> File: Example5.java   
 
 HTTP Requests Automation: A fully automated cycle of HTTP requests (GET, POST, PUT, DELETE) using RestAssured with a dummy API created using json-server.
 
